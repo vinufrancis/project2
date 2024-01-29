@@ -1469,9 +1469,9 @@
 
     <!-- Apex Charts -->
     <script src="Admin Dashboard/vendor/apex/apexcharts.min.js"></script>
-    <script src="Admin Dashboard/vendor/apex/custom/home/lineRevenueGradientGraph.js"></script>
-    <script src="Admin Dashboard/vendor/apex/custom/home/radialTasks.js"></script>
-    <script src="Admin Dashboard/vendor/apex/custom/home/lineNewCustomersGradientGraph.js"></script>
+    <script src="Admin Dashboard/vendor/apex/custom/dashboard/lineRevenueGradientGraph.js"></script>
+    <script src="Admin Dashboard/vendor/apex/custom/dashboard/radialTasks.js"></script>
+    <script src="Admin Dashboard/vendor/apex/custom/dashboard/lineNewCustomersGradientGraph.js"></script>
 
     <!-- Peity Charts -->
     <script src="Admin Dashboard/vendor/peity/peity.min.js"></script>
